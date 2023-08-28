@@ -1,5 +1,5 @@
 
-[Fin](#Fin)
+[Ir al Fin](#Fin)
 
 # Principio
 
@@ -57,5 +57,5 @@ background: tomato
 
 
 
-#Fin
+# Fin
 
