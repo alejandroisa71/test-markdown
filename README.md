@@ -52,6 +52,7 @@ background: tomato
 |Nombre |Apellido|
 |-------|--------|
 |Ale    |Isa     |
+|-------|--------|
 
 
 
