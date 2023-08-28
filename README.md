@@ -1,3 +1,6 @@
+
+# Principio
+
 # Hola Clase
 
 #### Heading 4
@@ -23,6 +26,10 @@ Esto es un parrafo
 _cursiva_
 
 **negrita**
+
+[Ir a YouTube](https://www.youtube.com/)
+
+[Llevame al Principio](#Principio)
 
 
 
